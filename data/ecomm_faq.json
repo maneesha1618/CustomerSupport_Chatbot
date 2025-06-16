@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How can I track my order?",
+    "answer": "Log into your account and go to 'My Orders' to see tracking updates. A tracking link is also sent via email after shipment."
+  },
+  {
+    "question": "What is your return and refund policy?",
+    "answer": "Returns are accepted within 7 days for unused items in original packaging. Refunds take 5 business days post-inspection."
+  },
+  {
+    "question": "Can I cancel or modify my order after placing it?",
+    "answer": "You may cancel/modify within 30 minutes. After that, please contact support or check 'My Orders'."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept cards, UPI, net banking, and wallets like Paytm. All payments are secure."
+  },
+  {
+    "question": "My payment failed. What should I do?",
+    "answer": "Check your connection, card validity, or use a different method. Contact support or your bank if needed."
+  },
+  {
+    "question": "I received a damaged product. What now?",
+    "answer": "Upload a photo via 'My Orders' within 48 hours. We’ll arrange a return or refund."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 3–7 business days. Express options may be available at checkout."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "Use Live Chat, email support@example.com, or call 1800-123-4567 between 9 AM–8 PM."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, add gift wrapping during checkout for ₹49. You can include a custom message too."
+  },
+  {
+    "question": "How do I update my delivery address?",
+    "answer": "Go to your Profile and edit your address or other account details."
+  }
+]
