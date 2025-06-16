@@ -153,7 +153,7 @@ You can track your order using the tracking link emailed to you.
 ## 🧑‍💻 Author
 
 **Maneesha M.**
-Trainer in Django & Data Science | Internship Project Mentor
+Data Scientist Cum IT Trainer | Internship Project Mentor
 
 ---
 
