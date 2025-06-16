@@ -162,14 +162,3 @@ Data Scientist Cum IT Trainer | Internship Project Mentor
 This project is licensed under the MIT License.
 
 ```
-
----
-
-Let me know if you'd like:
-
-- A `requirements.txt` file with exact versions
-- Deployment steps for Hugging Face Spaces or Render
-- Support for uploading documents directly from Streamlit
-
-Would you like a zip of this project with these files organized?
-```
